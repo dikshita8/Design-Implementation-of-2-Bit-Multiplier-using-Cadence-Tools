@@ -12,7 +12,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 - CMOS technology library
 
 ### Computer System
-- Minimum **4GB RAM**  and a **multi-core  processor**
+- Minimum **4GB RAM**  and a **multi-core   processor**
 
 ## Procedure
 
